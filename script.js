@@ -1,4 +1,4 @@
-const message = `I don’t really know if you’ll ever read this.\nBut if you do… I just want you to know, I hope your doing just fine.\n\nkeep trying your best. I know it's a long way ahead.  the universe just never stops for anyone.\n\nI wish you the best gang… if we ever met again at a different point in life, I hope you're doing better than me.\n\nAnyway, Take care.`;
+const message = `I don’t really know if you’ll ever read this.\n\nBut if you do… I want you to know that,\n\nI am very thankful for your honesty I appreciate it.\n\nI'm just not person you at this point. \n\nAnywayway, Take care.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
