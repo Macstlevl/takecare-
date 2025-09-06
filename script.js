@@ -1,4 +1,4 @@
-you essage = `I don’t really know if you’ll ever read this.\n\nBut if you do… I want you to know that,\n\nI am very thankful for your honesty I appreciate it.\n\nI'm just not person for you at this point.\n\nAnywayway, Take care.`;
+you essage = `I don’t really know if you’ll ever read this.\n\nBut if you do… I want you to know that,\n\nI am very thankful for your honesty I appreciate it.\n\nI'm just not person for you at this point. \n\nAnyway, Take care.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,5 +21,6 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
 
 
